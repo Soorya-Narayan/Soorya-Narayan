@@ -9,7 +9,9 @@
 
 ## About me
 
-Hi there 👋. I’m Sagar Viradiya, a skilled and results-driven Android Developer with a strong background in Android app development and a passion for crafting high-quality apps and libraries. With a keen eye for quality and a deep understanding of the Android ecosystem, I build solutions that are not only functional but also delightful. Besides my 9to5, I love to give back to the community by blogging, speaking, and open-sourcing my ideas. My love for community led me to Google Developer Expert for Android. If I’m not crafting app/library then probably wondering about the universe’s existence.
+Hi there 👋. I'm Surya Narayanan. My passion lies in 3D animation, where I bring creative visions to life using Blender and TouchDesigner. Alongside this, I manage artists on music concerts/festivals. I'm also proficient in web app development, creating robust and efficient applications.
+
+In my free time, I indulge in stand-up comedy, spreading joy with my unique humor. I also give back to the community through blogging, speaking engagements, and open-sourcing my ideas. When I'm not developing apps or animations, you can find me contemplating the mysteries of the universe or preparing my next comedy set.
 
 ## Get in touch :coffee:
 
