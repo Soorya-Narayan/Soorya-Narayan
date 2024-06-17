@@ -7,8 +7,6 @@
   <img src="https://profile-counter.glitch.me/{Soorya-Narayan}/count.svg" />
 </p>
 
-![Snake animation](https://github.com/thepiyushmalhotra/Soorya-Narayan/blob/output/github-contribution-grid-snake.svg)
-
 ## About me
 
 Hi there 👋. I'm Surya Narayanan. My passion lies in 3D animation, where I bring creative visions to life using Blender and TouchDesigner. Alongside this, I manage artists on music concerts/festivals. I'm also proficient in web app development, creating robust and efficient applications.
