@@ -4,7 +4,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/{YOUR USER}/count.svg" />
+  <img src="https://profile-counter.glitch.me/{Soorya-Narayan}/count.svg" />
 </p>
 
 ## About me
