@@ -13,7 +13,7 @@ Hi there 👋. I’m Sagar Viradiya, a skilled and results-driven Android Develo
 
 ## Get in touch :coffee:
 
-- [Personal Blog](https://sagarviradiya.dev)
-- [Twitter](https://twitter.com/viradiya_sagar)
-- [Medium](https://medium.com/@sagarviradiya)
-- [LinkedIn](https://www.linkedin.com/in/sagarviradiya)
+- [Personal Blog](https://sooryeah.netlify.app)
+- [Twitter](https://x.com/knowsoorya)
+- [Medium](https://medium.com/@sooryah)
+- [LinkedIn](www.linkedin.com/in/sooryanarayan)
