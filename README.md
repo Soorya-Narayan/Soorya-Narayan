@@ -23,4 +23,4 @@ In my free time, I indulge in stand-up comedy, spreading joy with my unique humo
 
 ## GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soorya-Narayan&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soorya-Narayan&layout=compact&theme=dracula)
