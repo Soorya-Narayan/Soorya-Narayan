@@ -8,9 +8,11 @@
 
 ## About me
 
-Hi there 👋. I'm Surya Narayanan. My passion lies in 3D animation, where I bring creative visions to life using Blender and TouchDesigner. Alongside this, I manage artists on music concerts/festivals. I'm also proficient in web app development, creating robust and efficient applications.
+Hi there 👋. I'm Surya Narayanan. My passion lies in 3D animation, where I bring creative visions to life using Blender and TouchDesigner. Alongside this, I manage artists at music concerts and festivals. I'm also proficient in web app development, creating robust and efficient applications.
 
 In my free time, I indulge in stand-up comedy, spreading joy with my unique humor. I also give back to the community through blogging, speaking engagements, and open-sourcing my ideas. When I'm not developing apps or animations, you can find me contemplating the mysteries of the universe or preparing my next comedy set.
+
+I have a keen interest in hardware projects, particularly using Arduino and ESP32. These platforms allow me to explore the exciting intersection of software and hardware, creating innovative solutions for various challenges.
 
 ## Get in touch :coffee:
 
