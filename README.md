@@ -1,4 +1,4 @@
-# Hey there :wave:
+# Hello there :wave:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant&weight=500&duration=2000&pause=1000&color=0CF711&center=true&vCenter=true&multiline=true&random=false&width=500&height=100&lines=Surya+Narayanan;Artist+Manager+%7C+3D+Animator+%7C+Web+App+Dev)](https://git.io/typing-svg)
 <p align="center"> 
