@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 
+# 👋 Hello there
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant&weight=500&duration=2000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&random=false&width=500&height=100&lines=Hello+there!;Hola!;Bonjour!;Ciao!;नमस्ते!;こんにちは!;안녕하세요!;Salut!;Hallo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant&weight=500&duration=2000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&random=false&width=500&height=100&lines=Surya+Narayanan;Artist+Manager+%7C+3D+Animator+%7C+Web+App+Dev)](https://git.io/typing-svg)
 
 </div>
 
