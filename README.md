@@ -11,13 +11,13 @@
 
 I can deal with hard deadlines and even harder business requirements
 
-## Get in touch :coffee:
+## Get in touch ☕  
 
-- [![S](https://img.shields.io/badge/S-Portfolio-cyan?labelColor=cyan&style=for-the-badge&logo=yes&logoColor=Black&link=https://sooryeah.netlify.app/)](https://sooryeah.netlify.app/)
-- [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/knowsoorya)
-- [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sooryah)
-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sooryanarayan)
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sooryeahhh/)
+[![S](https://img.shields.io/badge/S-Portfolio-cyan?labelColor=cyan&style=for-the-badge&logo=yes&logoColor=Black&link=https://sooryeah.netlify.app/)](https://sooryeah.netlify.app/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sooryah)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sooryanarayan)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sooryeahhh/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/knowsoorya)
 
 ## GitHub Stats
 
