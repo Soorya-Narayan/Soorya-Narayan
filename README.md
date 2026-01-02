@@ -19,8 +19,3 @@ I can deal with hard deadlines and even harder business requirements
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sooryeahhh/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/knowsoorya)
 
-## GitHub Stats
-
-<div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soorya-Narayan&layout=compact&theme=dracula" alt="Top Languages">
-</div>
