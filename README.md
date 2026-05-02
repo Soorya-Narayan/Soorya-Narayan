@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant&weight=500&duration=2000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&random=false&width=500&height=100&lines=Surya+Narayanan;Artist+Manager+%7C+3D+Animator+%7C+Dev)](https://git.io/typing-svg)
 
-</div>
+
 
 
 ## About me
@@ -19,3 +19,4 @@ I can deal with hard deadlines and even harder business requirements
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sooryeahhh/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/knowsoorya)
 
+</div>
