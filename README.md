@@ -13,7 +13,7 @@ I can deal with hard deadlines and even harder business requirements
 
 ## Get in touch ☕  
 
-[![S](https://img.shields.io/badge/S-Portfolio-cyan?labelColor=cyan&style=for-the-badge&logo=yes&logoColor=Black&link=https://sooryeah.netlify.app/)](https://sooryeah.netlify.app/)
+[![S](https://img.shields.io/badge/S-Portfolio-cyan?labelColor=cyan&style=for-the-badge&logo=yes&logoColor=Black&link=https://main.d1i7f0ldmbsihf.amplifyapp.com/)](https://sooryeah.netlify.app/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sooryah)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sooryanarayan)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sooryeahhh/)
