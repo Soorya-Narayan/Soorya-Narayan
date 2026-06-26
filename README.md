@@ -11,7 +11,7 @@
 
 I can deal with hard deadlines and even harder business requirements
 
-## Get in touch ☕  
+## Get in touch
 
 [![S](https://img.shields.io/badge/S-Portfolio-cyan?labelColor=cyan&style=for-the-badge&logo=yes&logoColor=Black&link=https://main.d1i7f0ldmbsihf.amplifyapp.com/)](https://sooryeah.netlify.app/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sooryah)
